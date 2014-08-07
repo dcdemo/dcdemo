@@ -1,4 +1,6 @@
-dcdemo
+Developer Center/Github Integration Demo
+
+![Picture](http://developercenter.vmware.com/image/journal/article?img_id=1389519&t=1406579858805)
 ======
 ## Synopsis
 
